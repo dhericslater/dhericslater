@@ -10,7 +10,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhericslater&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" height="70" whidth="90"
+  <img align="left" height="70" whidth="90"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" height="70" whidth="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height="60" whidth="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
