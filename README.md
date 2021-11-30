@@ -2,7 +2,7 @@
 ####  Se empenhando para conseguir gerar valor por onde eu passar!
 - Cursando Análise e Desenvolvimento de Sistemas
 - Estudando desenvolvimento back-end com Java e Spring
-- Noções de POO, SQL, TDD e Microsserviços
+- Noções de POO, SQL, Design Patterns, TDD e Microsserviços
 
 <div align="left">
   <a href="https://github.com/dhericslater">
