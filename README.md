@@ -1,8 +1,8 @@
-## Olá! Seja bem-vindo ao meu repositório. 😃
+## Olá! Este é meu repositório. 😃
 ####  Se empenhando para conseguir gerar valor por onde eu passar!
 - Cursando Análise e Desenvolvimento de Sistemas
 - Estudando desenvolvimento back-end com Java e Spring
-- Planos de estudo focado em POO, SQL, Design Patterns, TDD e Microsserviços
+- Planos de estudo focado em POO, SQL, TDD e Microsserviços
 
 <div align="left">
   <a href="https://github.com/dhericslater">
